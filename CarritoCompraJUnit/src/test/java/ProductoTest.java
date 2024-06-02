@@ -69,4 +69,10 @@ public class ProductoTest {
         assertTrue(productos.contains(producto1));
         assertTrue(productos.contains(producto2));
     }
+
+    @Test
+    public void testPrecioNegativo() {
+        Producto producto1 = new Producto("1", "Producto 1", -130.00);
+        assertThrows(IllegalArgumentException.class, () -> productoService.agregarProducto(producto1));
+    }
 }

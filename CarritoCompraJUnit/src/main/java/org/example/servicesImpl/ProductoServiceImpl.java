@@ -13,6 +13,9 @@ public class ProductoServiceImpl implements ProductoService {
 
     @Override
     public void agregarProducto(Producto producto) {
+        if (producto.getPrecio() < 0) {
+            throw new IllegalArgumentException("El precio no debe ser negativo");
+        }
         productos.put(producto.getId(), producto);
     }
 
