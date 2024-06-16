@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "C:/Users/darvy/Desktop/PUCMM/Cuatrimestre 12/Aseguramiento de la Calidad del Software/Practicas/QAPracticas/PlaywrightPractica/./src/main/frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "C:/Users/darvy/Desktop/PUCMM/Cuatrimestre 12/Aseguramiento de la Calidad del Software/Practicas/QAPracticas/PlaywrightPractica/./src/main/frontend/generated/jar-resources",
+  "staticOutput": "C:/Users/darvy/Desktop/PUCMM/Cuatrimestre 12/Aseguramiento de la Calidad del Software/Practicas/QAPracticas/PlaywrightPractica/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "C:\\Users\\darvy\\Desktop\\PUCMM\\Cuatrimestre 12\\Aseguramiento de la Calidad del Software\\Practicas\\QAPracticas\\PlaywrightPractica\\target\\classes\\META-INF\\VAADIN\\config",
+  "frontendBundleOutput": "C:\\Users\\darvy\\Desktop\\PUCMM\\Cuatrimestre 12\\Aseguramiento de la Calidad del Software\\Practicas\\QAPracticas\\PlaywrightPractica\\target\\classes\\META-INF\\VAADIN\\webapp",
+  "devBundleOutput": "C:/Users/darvy/Desktop/PUCMM/Cuatrimestre 12/Aseguramiento de la Calidad del Software/Practicas/QAPracticas/PlaywrightPractica/target/dev-bundle/webapp",
+  "devBundleStatsOutput": "C:/Users/darvy/Desktop/PUCMM/Cuatrimestre 12/Aseguramiento de la Calidad del Software/Practicas/QAPracticas/PlaywrightPractica/target/dev-bundle/config",
+  "jarResourcesFolder": "C:/Users/darvy/Desktop/PUCMM/Cuatrimestre 12/Aseguramiento de la Calidad del Software/Practicas/QAPracticas/PlaywrightPractica/./src/main/frontend/generated/jar-resources",
+  "themeName": "playwrightpractica",
+  "clientServiceWorkerSource": "C:\\Users\\darvy\\Desktop\\PUCMM\\Cuatrimestre 12\\Aseguramiento de la Calidad del Software\\Practicas\\QAPracticas\\PlaywrightPractica\\target\\sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
